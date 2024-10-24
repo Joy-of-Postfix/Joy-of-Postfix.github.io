@@ -1,9 +1,9 @@
 # Joy of Postfix Calculator App for Android
 
-![joyapppng](https://github.com/Joy-of-Postfix/calculator/blob/main/pictures/JoyOfPostfixGreen.png)
+![joyapppng](https://Joy-of-Postfix.github.io/JoyOfPostfixGreen.png)
 
-[APK-File](https://github.com/Joy-of-Postfix/calculator/blob/main/apk/debug/joyapp-debug.apk) can be downloaded \
-[Download-PDF](https://Joy-of-Postfix.github.io/JoyOfPostfix.pdf)
+[APK-File](https://Joy-of-Postfix.github.io/joyapp-debug.apk) can be downloaded \
+[PDF](https://Joy-of-Postfix.github.io/JoyOfPostfix.pdf) can also be downloaded \
 
 **Subset** of the programming language **Joy** for the ***postfix experience***.
 
