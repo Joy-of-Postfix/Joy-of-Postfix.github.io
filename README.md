@@ -3,7 +3,7 @@
 ![joyapppng](https://Joy-of-Postfix.github.io/JoyOfPostfixGreen.png)
 
 [APK-File](https://Joy-of-Postfix.github.io/joyapp-debug.apk) can be downloaded \
-[PDF](https://Joy-of-Postfix.github.io/JoyOfPostfix.pdf) can also be downloaded \
+[Reference-PDF](https://Joy-of-Postfix.github.io/JoyOfPostfix.pdf) can also be downloaded
 
 **Subset** of the programming language **Joy** for the ***postfix experience***.
 
