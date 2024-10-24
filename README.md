@@ -2,7 +2,8 @@
 
 ![joyapppng](https://github.com/Joy-of-Postfix/calculator/blob/main/pictures/JoyOfPostfixGreen.png)
 
-[APK-File](https://github.com/Joy-of-Postfix/calculator/blob/main/apk/debug/joyapp-debug.apk) can be downloaded
+[APK-File](https://github.com/Joy-of-Postfix/calculator/blob/main/apk/debug/joyapp-debug.apk) can be downloaded \
+[Download-PDF](https://github.com/Joy-of-Postfix/calculator/blob/main/JoyOfPostfix.pdf)
 
 **Subset** of the programming language **Joy** for the ***postfix experience***.
 
