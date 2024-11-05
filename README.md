@@ -41,3 +41,6 @@ but there are some **modifications** to Joy-of-Postfix
 - **true** and **false** are booleans (bool)
 - **(x y z)** is a comment
 - **# x y z** is an end-of-line comment
+
+
+Made by [metazip](https://github.com/metazip)
