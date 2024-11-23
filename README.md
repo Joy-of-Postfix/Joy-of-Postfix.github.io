@@ -5,14 +5,14 @@
 [APK-File](https://Joy-of-Postfix.github.io/joyapp-debug.apk) can be downloaded \
 [Reference-PDF](https://Joy-of-Postfix.github.io/JoyOfPostfix.pdf) can also be downloaded
 
-# 
+
 or\
 ![heise Download](https://www.heise.de/software/icons/download_logo1.png)\
 **Virus-Save Download** on heise.de/Download: \
 [JoyOfPostfix/App](https://www.heise.de/download/product/mjoy/download), 
 [JoyOfPostfix/PDF](https://www.heise.de/download/product/mjoy/download) in the Android Register. (both 20241122)
 
-# 
+
 
 
 \
