@@ -8,10 +8,12 @@
 ##
 \
 ![heise Download](https://www.heise.de/software/icons/download_logo1.png)\
-Virus-Save Download on heise.de/Download:  [JoyOfPostfix/App](https://www.heise.de/download/product/mjoy/download), 
-[JoyOfPostfix/PDF](https://www.heise.de/download/product/mjoy/download)
+Virus-Save Download on heise.de/Download: \
+[JoyOfPostfix/App](https://www.heise.de/download/product/mjoy/download), 
+[JoyOfPostfix/PDF](https://www.heise.de/download/product/mjoy/download) in the Android Register.
 
 ##
+\
 
 **Subset** of the programming language **Joy** for the ***postfix experience***.
 
