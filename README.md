@@ -5,6 +5,14 @@
 [APK-File](https://Joy-of-Postfix.github.io/joyapp-debug.apk) can be downloaded \
 [Reference-PDF](https://Joy-of-Postfix.github.io/JoyOfPostfix.pdf) can also be downloaded
 
+##
+\
+![heise Download](https://www.heise.de/software/icons/download_logo1.png)\
+Virus-Save Download on heise.de/Download:  [JoyOfPostfix/App](https://www.heise.de/download/product/mjoy/download), 
+[JoyOfPostfix/PDF](https://www.heise.de/download/product/mjoy/download)
+
+##
+
 **Subset** of the programming language **Joy** for the ***postfix experience***.
 
 [Tutorial of Joy](https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html)
