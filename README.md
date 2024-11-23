@@ -15,7 +15,7 @@ Virus-Save Download on heise.de/Download: \
 ##
 
 
-\**Subset** of the programming language **Joy** for the ***postfix experience***.
+\ **Subset** of the programming language **Joy** for the ***postfix experience***.
 
 [Tutorial of Joy](https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html)
 but there are some **modifications** to Joy-of-Postfix
